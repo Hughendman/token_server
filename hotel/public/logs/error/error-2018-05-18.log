@@ -1,0 +1,230 @@
+[2018-05-18 15:08:27.202] [ERROR] errorLogger - 
+*************** error log start ***************
+[object Object]err name: ReferenceError
+err message: la is not defined
+err stack: ReferenceError: la is not defined
+    at E:\liuDan\backend\hotel\routes\users.js:7:3
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at app.use (E:\liuDan\backend\hotel\app.js:79:9)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at views (E:\liuDan\backend\hotel\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+*************** error log end ***************
+
+[2018-05-18 15:17:48.982] [ERROR] errorLogger - 
+*************** error log start ***************
+[object Object]err name: ReferenceError
+err message: config is not defined
+err stack: ReferenceError: config is not defined
+    at E:\liuDan\backend\hotel\routes\users.js:7:14
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at app.use (E:\liuDan\backend\hotel\app.js:79:9)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at views (E:\liuDan\backend\hotel\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+*************** error log end ***************
+
+[2018-05-18 15:17:49.919] [ERROR] errorLogger - 
+*************** error log start ***************
+[object Object]err name: ReferenceError
+err message: config is not defined
+err stack: ReferenceError: config is not defined
+    at E:\liuDan\backend\hotel\routes\users.js:7:14
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at app.use (E:\liuDan\backend\hotel\app.js:79:9)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at views (E:\liuDan\backend\hotel\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+*************** error log end ***************
+
+[2018-05-18 15:17:50.379] [ERROR] errorLogger - 
+*************** error log start ***************
+[object Object]err name: ReferenceError
+err message: config is not defined
+err stack: ReferenceError: config is not defined
+    at E:\liuDan\backend\hotel\routes\users.js:7:14
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at app.use (E:\liuDan\backend\hotel\app.js:79:9)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at views (E:\liuDan\backend\hotel\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+*************** error log end ***************
+
+[2018-05-18 15:17:50.586] [ERROR] errorLogger - 
+*************** error log start ***************
+[object Object]err name: ReferenceError
+err message: config is not defined
+err stack: ReferenceError: config is not defined
+    at E:\liuDan\backend\hotel\routes\users.js:7:14
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at app.use (E:\liuDan\backend\hotel\app.js:79:9)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at views (E:\liuDan\backend\hotel\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+*************** error log end ***************
+
+[2018-05-18 15:17:50.803] [ERROR] errorLogger - 
+*************** error log start ***************
+[object Object]err name: ReferenceError
+err message: config is not defined
+err stack: ReferenceError: config is not defined
+    at E:\liuDan\backend\hotel\routes\users.js:7:14
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at app.use (E:\liuDan\backend\hotel\app.js:79:9)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at views (E:\liuDan\backend\hotel\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+*************** error log end ***************
+
+[2018-05-18 15:20:04.610] [ERROR] errorLogger - 
+*************** error log start ***************
+[object Object]err name: ReferenceError
+err message: config is not defined
+err stack: ReferenceError: config is not defined
+    at E:\liuDan\backend\hotel\routes\users.js:7:3
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at app.use (E:\liuDan\backend\hotel\app.js:79:9)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at views (E:\liuDan\backend\hotel\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+*************** error log end ***************
+
+[2018-05-18 15:20:05.310] [ERROR] errorLogger - 
+*************** error log start ***************
+[object Object]err name: ReferenceError
+err message: config is not defined
+err stack: ReferenceError: config is not defined
+    at E:\liuDan\backend\hotel\routes\users.js:7:3
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at app.use (E:\liuDan\backend\hotel\app.js:79:9)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at views (E:\liuDan\backend\hotel\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+*************** error log end ***************
+
+[2018-05-18 15:20:28.762] [ERROR] errorLogger - 
+*************** error log start ***************
+[object Object]err name: ReferenceError
+err message: targe is not defined
+err stack: ReferenceError: targe is not defined
+    at E:\liuDan\backend\hotel\routes\users.js:10:34
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at app.use (E:\liuDan\backend\hotel\app.js:79:9)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at views (E:\liuDan\backend\hotel\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+*************** error log end ***************
+
+[2018-05-18 15:20:29.605] [ERROR] errorLogger - 
+*************** error log start ***************
+[object Object]err name: ReferenceError
+err message: targe is not defined
+err stack: ReferenceError: targe is not defined
+    at E:\liuDan\backend\hotel\routes\users.js:10:34
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\liuDan\backend\hotel\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at app.use (E:\liuDan\backend\hotel\app.js:79:9)
+    at dispatch (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:42:32)
+    at next (E:\liuDan\backend\hotel\node_modules\_koa-compose@4.0.0@koa-compose\index.js:43:18)
+    at views (E:\liuDan\backend\hotel\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+*************** error log end ***************
+
